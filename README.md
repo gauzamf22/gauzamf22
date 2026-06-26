@@ -1,8 +1,8 @@
 ![Muhammad Gauza](img/Github.png)
 
-# Hello World !👋😊
+# Hello Everyoneee !👋😊
 
-##### I'm Gauza..., Welcome to my GitHub — a little corner where ideas come to life and codes tell stories. (❁´◡`❁)
+##### I'm Gauza..., Welcome to my GitHub a little corner where ideas come to life and codes tell stories. (❁´◡`❁)
 
 *"The best way to predict the future is to create it." – Peter Drucker* 
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍💻 Undergraduate of Computer Science at Gadjah Mada University, Indonesia<br>🌐 Web Developer & Logic Enthusiast<br>🎨 Currently learning UI/UX Design using Figma to create seamless digital experiences<br>🎯 Goals: To become a versatile developer who bridges the gap between logic, design, and user experience — crafting solutions that are both functional and meaningful.<br>🎲 Fun fact: I love reading books and exploring scientific research — especially those that connect technology, human behavior, and innovation.<br><br><br>“Turning logic into creativity through code and design.”</p>
+<p align="left">👨‍💻 Undergraduate of Computer Science at Gadjah Mada University, Indonesia<br>🌐 Web Developer, Data Science, Machine Learning/Artificial Intellegence and Logic Enthusiast<br>🎨 Currently learning UI/UX Design using Figma to create seamless digital experiences<br>🎯 Goals: To become a versatile developer who bridges the gap between logic, design, and user experience crafting solutions that are both functional and meaningful.<br>🎲 Fun fact: I love reading books and exploring scientific research especially those that connect technology, human behavior, and innovation.<br><br><br>“Turning logic into creativity through code and design.”</p>
 
 ###
 
